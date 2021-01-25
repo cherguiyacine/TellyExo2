@@ -17,8 +17,8 @@ import org.hibernate.validator.constraints.NotBlank;
 @Entity
 @Table(name="test")
 public class Bus implements Serializable {
-	
 
+	//hey
 	private static final long serialVersionUID = 5362437768854142524L;
 
 
